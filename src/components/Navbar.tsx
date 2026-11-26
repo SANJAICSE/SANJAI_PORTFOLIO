@@ -53,7 +53,7 @@ export const Navbar: React.FC = () => {
             Let's Talk
           </a>
           <a
-  href="/media/Sanjai_R_Resume.pdf"
+  href="/Sanjai_R_Resume.pdf"
   download="Sanjai_R_Resume.pdf"
   className="glass-red inline-block px-5 py-2 rounded-full text-sm font-semibold"
 >
